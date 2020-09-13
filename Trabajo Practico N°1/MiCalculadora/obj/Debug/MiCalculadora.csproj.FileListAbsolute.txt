@@ -1,0 +1,13 @@
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\paula\source\repos\tp_laboratorio_2\Trabajo Practico N°1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

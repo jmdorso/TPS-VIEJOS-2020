@@ -71,7 +71,7 @@ namespace Entidades
         /// </summary>
         /// <param name="binario">cadena a validar(formato string)</param>
         /// <returns>retorna true si son ceros y unos sino retorna false si tiene algun otro caracter</returns>
-        private bool EsBinario(string binario)
+        private static bool EsBinario(string binario)
         {
             bool valorRetorno = true;
             char[] arrayBinario = binario.ToCharArray();
@@ -92,7 +92,7 @@ namespace Entidades
         /// </summary>
         /// <param name="binario">numero binario a controlar y covnertir a decimal(formato string)</param>
         /// <returns>retorna el numero decimal en formato string en caso de poder, sino, devuelve "Valor invalido"</returns>
-        public string BinarioDecimal(string binario)
+        public static string BinarioDecimal(string binario)
         {
             string valorRetorno = "Valor Invalido";
             double numeroDecimalAcumulado = 0;
@@ -120,7 +120,7 @@ namespace Entidades
         /// </summary>
         /// <param name="numero">parametro a controlar y convertir(formato double)</param>
         /// <returns>retorna un numero binario en un string, o "valor invalido" en caso de no poder realizarse</returns>
-        public string DecimalBinario(double numero)
+        public static string DecimalBinario(double numero)
         {
             string valorRetorno = "Valor Invalido";
             long numeroSinSigno = Convert.ToInt64(Math.Abs(numero));
@@ -138,7 +138,7 @@ namespace Entidades
         /// </summary>
         /// <param name="numero">parametro a controlar y convertir(formato string)</param>
         /// <returns>retorna un numero binario en un string, o "valor invalido" en caso de no poder realizarse</returns>
-        public string DecimalBinario(string numero)
+        public static string DecimalBinario(string numero)
         {
             string valorRetorno = "Valor Invalido";
             double numeroDecimal;
@@ -195,7 +195,10 @@ namespace Entidades
             {
                 resultado = double.MinValue;
             }
-            resultado = n1.numero / n2.numero;
+            else
+            {
+                resultado = n1.numero / n2.numero;
+            }
 
             return resultado;
         }
