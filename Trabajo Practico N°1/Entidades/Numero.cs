@@ -99,7 +99,10 @@ namespace Entidades
             char[] arrayBinario = binario.ToCharArray();
             Array.Reverse(arrayBinario);
 
-            //Lo que hacemos dentro del if, es recorrer el array invertido, y si en tal posicion hay un numero 1, se hace 2 elevado a i(posicion actaul del array)
+            //Lo que hacemos dentro del if, es recorrer el array invertido, y si en tal posicion hay un numero 1, 
+            //se hace 2 elevado a i(posicion actaul del array)
+            //en el else, si el numero ingresado no es binario, quiere decir que ya es decimal,entonces lo devuelve.
+            //esto lo hago por si se aprieta el boton convertir a decimal, ya estando en decimal el numero.
             if (EsBinario(binario))
             {
                 for(int i=0;i<arrayBinario.Length;i++)
@@ -110,6 +113,10 @@ namespace Entidades
                     }
                 }
                 valorRetorno = numeroDecimalAcumulado.ToString();
+            }
+            else
+            {
+                valorRetorno = binario;
             }
             
             return valorRetorno;
@@ -123,12 +130,24 @@ namespace Entidades
         public static string DecimalBinario(double numero)
         {
             string valorRetorno = "Valor Invalido";
-            long numeroSinSigno = Convert.ToInt64(Math.Abs(numero));
+            string numeroAuxiilar = numero.ToString();
+            long numeroSinSigno;
 
-            if(numero > 0)
+            ///Controlo que si el numero que le pasamos ya es un binario, devuelva el binario ya ingresado
+            ///esto es por si ya apretamos el boton de convertir, para que no siga convirtiendo sobre un numero binario
+            if(!EsBinario(numeroAuxiilar))
             {
-                valorRetorno = Convert.ToString(numeroSinSigno, 2);
+                numeroSinSigno = Convert.ToInt64(Math.Abs(numero));
+                if (numero > 0)
+                {
+                    valorRetorno = Convert.ToString(numeroSinSigno, 2);
+                }
             }
+            else
+            {
+                valorRetorno = numeroAuxiilar;
+            }
+ 
 
             return valorRetorno;
         }
