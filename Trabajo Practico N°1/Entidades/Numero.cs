@@ -90,8 +90,8 @@ namespace Entidades
         /// <summary>
         /// Recibe un string binario, comprobamos si cumple los requisitos de un numero binario, y lo convierte a decimal
         /// </summary>
-        /// <param name="binario"></param>
-        /// <returns></returns>
+        /// <param name="binario">numero binario a controlar y covnertir a decimal(formato string)</param>
+        /// <returns>retorna el numero decimal en formato string en caso de poder, sino, devuelve "Valor invalido"</returns>
         public string BinarioDecimal(string binario)
         {
             string valorRetorno = "Valor Invalido";
@@ -115,6 +115,105 @@ namespace Entidades
             return valorRetorno;
         }
 
+        /// <summary>
+        /// Recibe un numero decimal en formato double y lo transforma en un numero binario si es posible
+        /// </summary>
+        /// <param name="numero">parametro a controlar y convertir(formato double)</param>
+        /// <returns>retorna un numero binario en un string, o "valor invalido" en caso de no poder realizarse</returns>
+        public string DecimalBinario(double numero)
+        {
+            string valorRetorno = "Valor Invalido";
+            long numeroSinSigno = Convert.ToInt64(Math.Abs(numero));
+
+            if(numero > 0)
+            {
+                valorRetorno = Convert.ToString(numeroSinSigno, 2);
+            }
+
+            return valorRetorno;
+        }
+
+        /// <summary>
+        /// Recibe un numero decimal en formato string, lo convierte en double, reutiliza el metodo ya creado y lo transforma en un numero binario si es posible
+        /// </summary>
+        /// <param name="numero">parametro a controlar y convertir(formato string)</param>
+        /// <returns>retorna un numero binario en un string, o "valor invalido" en caso de no poder realizarse</returns>
+        public string DecimalBinario(string numero)
+        {
+            string valorRetorno = "Valor Invalido";
+            double numeroDecimal;
+
+            if(Double.TryParse(numero,out numeroDecimal))
+            {
+                valorRetorno = DecimalBinario(numeroDecimal);
+            }
+
+            return valorRetorno;
+        }
+
+        /// <summary>
+        /// Metodo que suma 2 objetos del tipo Numero
+        /// </summary>
+        /// <param name="n1">primer numero a operar (tipo Numero)</param>
+        /// <param name="n2">segundo numero a operar (tipo Numero)</param>
+        /// <returns>el resultado de la operacion aritmetica en formato double</returns>
+        public static double operator +(Numero n1, Numero n2)
+        {
+            double resultado;
+
+            resultado = n1.numero + n2.numero;
+
+            return resultado;
+        }
+
+        /// <summary>
+        /// Metodo que resta 2 objetos del tipo Numero
+        /// </summary>
+        /// <param name="n1">primer numero a operar (tipo Numero)</param>
+        /// <param name="n2">segundo numero a operar (tipo Numero)</param>
+        /// <returns>el resultado de la operacion aritmetica en formato double</returns>
+        public static double operator -(Numero n1, Numero n2)
+        {
+            double resultado;
+
+            resultado = n1.numero - n2.numero;
+
+            return resultado;
+        }
+
+        /// <summary>
+        /// Metodo que divide 2 objetos del tipo Numero
+        /// </summary>
+        /// <param name="n1">primer numero a operar (tipo Numero)</param>
+        /// <param name="n2">segundo numero a operar (tipo Numero)</param>
+        /// <returns>el resultado de la operacion aritmetica en formato double o en caso de ser una division por 0, retorna double.MinValue</returns>
+        public static double operator /(Numero n1, Numero n2)
+        {
+            double resultado;
+
+            if(n2.numero == 0)
+            {
+                resultado = double.MinValue;
+            }
+            resultado = n1.numero / n2.numero;
+
+            return resultado;
+        }
+
+        /// <summary>
+        /// Metodo que multiplica 2 objetos del tipo Numero
+        /// </summary>
+        /// <param name="n1">primer numero a operar (tipo Numero)</param>
+        /// <param name="n2">segundo numero a operar (tipo Numero)</param>
+        /// <returns>el resultado de la operacion aritmetica en formato double</returns>
+        public static double operator *(Numero n1, Numero n2)
+        {
+            double resultado;
+
+            resultado = n1.numero * n2.numero;
+
+            return resultado;
+        }
 
     }
 }
