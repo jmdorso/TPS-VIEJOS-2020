@@ -1,0 +1,13 @@
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb

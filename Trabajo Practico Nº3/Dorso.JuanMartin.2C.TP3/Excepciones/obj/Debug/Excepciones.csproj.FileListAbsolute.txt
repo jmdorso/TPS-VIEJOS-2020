@@ -1,0 +1,5 @@
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

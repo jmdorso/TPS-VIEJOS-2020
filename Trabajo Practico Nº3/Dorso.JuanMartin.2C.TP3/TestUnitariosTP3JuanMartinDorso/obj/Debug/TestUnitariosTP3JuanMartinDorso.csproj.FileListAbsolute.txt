@@ -1,0 +1,25 @@
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\TestUnitariosTP3JuanMartinDorso.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\TestUnitariosTP3JuanMartinDorso.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Archivos.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Clases Abstractas.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Clases Instanciables.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Excepciones.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Archivos.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Clases Abstractas.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Clases Instanciables.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Excepciones.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\obj\Debug\TestUnitariosTP3JuanMartinDorso.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\obj\Debug\TestUnitariosTP3JuanMartinDorso.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\obj\Debug\TestUnitariosTP3JuanMartinDorso.csproj.CopyComplete
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\obj\Debug\TestUnitariosTP3JuanMartinDorso.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº3\Dorso.JuanMartin.2C.TP3\TestUnitariosTP3JuanMartinDorso\obj\Debug\TestUnitariosTP3JuanMartinDorso.pdb
