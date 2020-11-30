@@ -1,0 +1,52 @@
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\TestsUnitariosTP4.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\TestsUnitariosTP4.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Archivos.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\CalzadoForm.exe
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Entidades.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Exceptions.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Archivos.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\CalzadoForm.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\CalzadoForm.exe.config
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Entidades.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Exceptions.pdb
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.csprojAssemblyReference.cache
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.csproj.CopyComplete
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.dll
+C:\Users\Compumar\source\repos\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.pdb
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\TestsUnitariosTP4.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\TestsUnitariosTP4.pdb
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Archivos.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\CalzadoForm.exe
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Entidades.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Exceptions.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Archivos.pdb
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\CalzadoForm.pdb
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\CalzadoForm.exe.config
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Entidades.pdb
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Exceptions.pdb
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.csprojAssemblyReference.cache
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.csproj.CoreCompileInputs.cache
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.csproj.CopyComplete
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.dll
+C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\TestsUnitariosTP4\obj\Debug\TestsUnitariosTP4.pdb
