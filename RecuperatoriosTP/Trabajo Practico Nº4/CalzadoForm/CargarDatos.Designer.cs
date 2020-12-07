@@ -37,7 +37,7 @@
             // 
             // textBoxTalle
             // 
-            this.textBoxTalle.Location = new System.Drawing.Point(100, 37);
+            this.textBoxTalle.Location = new System.Drawing.Point(200, 37);
             this.textBoxTalle.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxTalle.Name = "textBoxTalle";
             this.textBoxTalle.Size = new System.Drawing.Size(359, 22);
@@ -45,7 +45,7 @@
             // 
             // textBoxPrecio
             // 
-            this.textBoxPrecio.Location = new System.Drawing.Point(100, 98);
+            this.textBoxPrecio.Location = new System.Drawing.Point(200, 98);
             this.textBoxPrecio.Margin = new System.Windows.Forms.Padding(4);
             this.textBoxPrecio.Name = "textBoxPrecio";
             this.textBoxPrecio.Size = new System.Drawing.Size(359, 22);
@@ -53,7 +53,7 @@
             // 
             // buttonAceptar
             // 
-            this.buttonAceptar.Location = new System.Drawing.Point(100, 156);
+            this.buttonAceptar.Location = new System.Drawing.Point(87, 152);
             this.buttonAceptar.Margin = new System.Windows.Forms.Padding(4);
             this.buttonAceptar.Name = "buttonAceptar";
             this.buttonAceptar.Size = new System.Drawing.Size(360, 44);
@@ -65,28 +65,28 @@
             // labelTalle
             // 
             this.labelTalle.AutoSize = true;
-            this.labelTalle.Location = new System.Drawing.Point(16, 37);
+            this.labelTalle.Location = new System.Drawing.Point(38, 37);
             this.labelTalle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelTalle.Name = "labelTalle";
-            this.labelTalle.Size = new System.Drawing.Size(39, 17);
+            this.labelTalle.Size = new System.Drawing.Size(121, 17);
             this.labelTalle.TabIndex = 0;
-            this.labelTalle.Text = "Talle";
+            this.labelTalle.Text = "Talle (de 30 a 46)";
             // 
             // labelPrecio
             // 
             this.labelPrecio.AutoSize = true;
-            this.labelPrecio.Location = new System.Drawing.Point(16, 103);
+            this.labelPrecio.Location = new System.Drawing.Point(38, 98);
             this.labelPrecio.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelPrecio.Name = "labelPrecio";
-            this.labelPrecio.Size = new System.Drawing.Size(48, 17);
+            this.labelPrecio.Size = new System.Drawing.Size(154, 17);
             this.labelPrecio.TabIndex = 0;
-            this.labelPrecio.Text = "Precio";
+            this.labelPrecio.Text = "Precio (minimo $3.000)";
             // 
             // CargarDatos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(487, 227);
+            this.ClientSize = new System.Drawing.Size(572, 209);
             this.Controls.Add(this.labelPrecio);
             this.Controls.Add(this.labelTalle);
             this.Controls.Add(this.buttonAceptar);

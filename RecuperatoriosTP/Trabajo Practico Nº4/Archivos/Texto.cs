@@ -12,7 +12,6 @@ namespace Archivos
 {
     public class Texto : IArchivos<string>
     {
-           
         #region Metodos
         /// <summary>
         /// Propiedad que devuelve la direccion en donde guardar el archivo (escritorio)
@@ -97,6 +96,6 @@ namespace Archivos
                 return auxRetorno;
             }
             #endregion
-        }
     }
+}
 

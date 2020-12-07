@@ -11,7 +11,7 @@ using Exceptions;
 
 namespace Archivos
 {
-    public class Xml<T> : IArchivos<T> 
+    public class Xml<T> : IArchivos<T> where T : class
      
     {
         #region Metodos
@@ -36,16 +36,14 @@ namespace Archivos
         {
             
             bool auxRetorno = false;
-             XmlTextWriter xmlWriter = new XmlTextWriter($"{this.GetDirectoryPath}{archivo}", Encoding.UTF8);
-             XmlSerializer xmlSerializer;
+            XmlTextWriter xmlWriter = null;
+             
              try
              {
-                
-                     xmlSerializer = new XmlSerializer(typeof(T));
+                     xmlWriter = new XmlTextWriter($"{this.GetDirectoryPath}{archivo}", Encoding.UTF8);
+                     XmlSerializer xmlSerializer = new XmlSerializer(typeof(T));
                      xmlSerializer.Serialize(xmlWriter, datos);
                      auxRetorno = true;
-
-               
              }
              catch (Exception exc)
              {
@@ -53,8 +51,11 @@ namespace Archivos
              }
              finally
              {
-                 xmlWriter.Close();
-             }
+                if (xmlWriter != null)
+                {
+                    xmlWriter.Close();
+                }
+            }
 
              return auxRetorno;
         }
@@ -90,7 +91,10 @@ namespace Archivos
             }
             finally
             {
-                xmlReader.Close();
+                if (xmlReader != null)
+                {
+                    xmlReader.Close();
+                }
             }
 
             return auxRetorno;

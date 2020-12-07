@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Archivos;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -64,6 +65,22 @@ namespace Entidades
             
 
             return auxRetorno.ToString();
+        }
+
+        /// <summary>
+        /// Guardar en formato xml botines
+        /// </summary>
+        /// <param name="botin"></param>
+        /// <param name="nombreArchivo"></param>
+        /// <returns></returns>
+        public static bool GuardarXml(Botin botin, string nombreArchivo)
+        {
+            bool auxSeGuardo = false;
+            Xml<Botin> xml = new Xml<Botin>();
+
+            auxSeGuardo = xml.Guardar(nombreArchivo, botin);
+
+            return auxSeGuardo;
         }
     }
 }

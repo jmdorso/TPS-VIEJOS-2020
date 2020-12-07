@@ -10,3 +10,9 @@ C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico N�
 C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
 C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\Exceptions\obj\Debug\Exceptions.dll
 C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Exceptions\obj\Debug\Exceptions.pdb

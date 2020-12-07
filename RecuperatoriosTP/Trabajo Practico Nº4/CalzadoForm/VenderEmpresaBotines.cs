@@ -40,7 +40,7 @@ namespace CalzadoForm
             }
             else
             {
-                listBoxVentas.Items.Add("ID #" + calzado.Id + "\tMarca: " + calzado.Marca + "\tPrecio venta: $ " + calzado.PrecioVenta +
+                listBoxVentas.Items.Add("ID #" + calzado.Id + "\tMarca: " + calzado.Marca +  "\tPrecio venta: $ " + calzado.PrecioVenta +
                     "\tTalle: " + calzado.Talle + "\t\t" + calzado.Estado);
             }
             

@@ -187,10 +187,8 @@ namespace Entidades
                 {
                     calzado.Id = empresa.calzados.Count + 1;
                     empresa.calzados.Add(calzado);
-                    empresa.gastos = empresa.gastos + calzado.PrecioCompra;
-
+                    empresa.gastos = empresa.gastos + calzado.PrecioCompra;                  
                     return true;
-
                 }
             }
 
@@ -277,37 +275,6 @@ namespace Entidades
 
             return auxRetorno.ToString();
         }
-
-        /// <summary>
-        /// Guarda la empresa en xml en el escritrio mediante un nombre en especifico
-        /// </summary>
-        /// <param name="empresa"></param>
-        /// <param name="nombreArchivo"></param>
-        /// <returns></returns>
-        public static bool GuardarXml(Empresa empresa,string nombreArchivo)
-        {
-            bool auxSeGuardo = false;
-            Xml<Empresa> xml = new Xml<Empresa>();
-
-            auxSeGuardo = xml.Guardar(nombreArchivo, empresa);
-
-            return auxSeGuardo;
-        }
-
-        /// <summary>
-        /// Lee la empresa en xml
-        /// </summary>
-        /// <returns></returns>
-        public static Empresa LeerXml()
-        {
-            Empresa auxEmpresa;
-            Xml<Empresa> xml = new Xml<Empresa>();
-
-            xml.Leer("Empresa.xml", out auxEmpresa);
-
-            return auxEmpresa;
-        }
-
         /// <summary>
         /// Guarda la empresa en Texto en el escritrio mediante un nombre especifico
         /// </summary>

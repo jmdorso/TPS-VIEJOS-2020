@@ -39,6 +39,11 @@ namespace CalzadoForm
         {
             empresaBotin = calzadosDAO.ListarBotines();
             empresaZapatilla = calzadosDAO.ListarZapatillas();
+            if (empresaZapatilla.Calzados.Count > 0)
+            {
+                MessageBox.Show("SE LEVANTARON LOS DATOS DE LA BD CORRECATAMENTE", "TODO OK", MessageBoxButtons.OK);
+            }
+
         }
 
 
@@ -94,6 +99,7 @@ namespace CalzadoForm
                 Zapatilla zapatilla = new Zapatilla((Calzado.EOrigen)randomOrigen, precioCompra, talle, "PRODUCTO ALEATORIO",
                     (Calzado.EMarca)randomMarca, (Zapatilla.ETipoZapatilla)randomTipo);
                 empresaZapatilla.SumarCalzado<Zapatilla>(empresaZapatilla, zapatilla);
+                Zapatilla.GuardarXml(zapatilla, "Zapatilla.xml");
             }
 
         }
@@ -126,6 +132,7 @@ namespace CalzadoForm
                 Botin botin = new Botin((Calzado.EOrigen)randomOrigen, precioCompra, talle, "PRODUCTO ALEATORIO",
                     (Calzado.EMarca)randomMarca, (Botin.ETipoBotin)randomTipo);
                 empresaBotin.SumarCalzado<Botin>(empresaBotin, botin);
+                Botin.GuardarXml(botin, "Botin.xml");
             }
 
         }
@@ -234,10 +241,7 @@ namespace CalzadoForm
 
                 if (zapatilla.Talle >= 40)
                 {
-                    //empresaBotin.GenerarVenta(empresaBotin, botin.Id);
-
                     this.vendiZapatilla.Invoke(zapatilla);
-
                 }
             }
         }

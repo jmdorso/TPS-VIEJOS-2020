@@ -16,3 +16,12 @@ C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico N�
 C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.dll
 C:\Users\Compumar\Desktop\PRUEBO CLONAR TP4\tp_laboratorio_2\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.pdb
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\bin\Debug\Archivos.dll
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\bin\Debug\Archivos.pdb
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\bin\Debug\Exceptions.dll
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\bin\Debug\Exceptions.pdb
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.dll
+C:\Users\ramii\Desktop\JUAN\tp_laboratorio_2\RecuperatoriosTP\Trabajo Practico Nº4\Archivos\obj\Debug\Archivos.pdb
